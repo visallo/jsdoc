@@ -1,7 +1,7 @@
 {
   "name": "@visallo/jsdoc",
-  "version": "3.5.5",
-  "revision": "1500758109682",
+  "version": "3.5.6",
+  "revision": "1541458917826",
   "description": "An API documentation generator for JavaScript.",
   "keywords": [
     "documentation",
@@ -13,7 +13,7 @@
     "url": "https://github.com/jsdoc3/jsdoc"
   },
   "dependencies": {
-    "babylon": "7.0.0-beta.19",
+    "babylon": "7.0.0-beta.47",
     "bluebird": "~3.5.0",
     "catharsis": "~0.8.9",
     "escape-string-regexp": "~1.0.5",
@@ -54,11 +54,9 @@
     "name": "Michael Mathews",
     "email": "micmath@gmail.com"
   },
-  "contributors": [
-    {
-      "url": "https://github.com/jsdoc3/jsdoc/graphs/contributors"
-    }
-  ],
+  "contributors": [{
+    "url": "https://github.com/jsdoc3/jsdoc/graphs/contributors"
+  }],
   "maintainers": {
     "name": "Jeff Williams",
     "email": "jeffrey.l.williams@gmail.com"
